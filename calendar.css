@@ -1,0 +1,25 @@
+.table--calendar {
+    font-family: arial;
+    border-spacing: 0;
+    border-collapse: collapse;
+    background: red;
+}
+.td--empty-cell {
+    background:gray;
+}
+.td--week-day {
+    background:gray;
+}
+
+.td--week-day,
+.td--month-day {
+    text-align: center;
+}
+
+.grayBg {
+    background: gray;
+}
+
+.blueBg {
+    background: blue;
+}
